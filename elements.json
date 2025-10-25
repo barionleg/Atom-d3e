@@ -1443,5 +1443,13 @@
             8
         ],
         "name": "Oganesson"
+    },
+    "Md": 
+    { "protons": 1,
+      "neutrons": 1,
+      "electrons": [
+        1
+      ],
+        "name": "Deuterium"
     }
 }
