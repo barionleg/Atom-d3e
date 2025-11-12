@@ -1452,12 +1452,28 @@
       ],
         "name": "Deuterium"
     },
-        "234Uranium": 
+            "234Uranium": 
     { "protons": 92,
       "neutrons": 142,
       "electrons": [
         92
       ],
         "name": "Uranium-234"
+    }
+        "235Uranium": 
+    { "protons": 92,
+      "neutrons": 143,
+      "electrons": [
+        92
+      ],
+        "name": "Uranium-235"
+    },
+            "238Uranium": 
+    { "protons": 92,
+      "neutrons": 146,
+      "electrons": [
+        92
+      ],
+        "name": "Uranium-238"
     }
 }
